@@ -83,7 +83,7 @@ In general, product development is an iterative cycle of building, upgrading, te
 
 Specifically, when building products or pursuing projects, a feedback-driven lifecycle is encouraged. This is for the purpose of what is called **validated learning** (i.e. validating an idea directly from customers or users). This is employed in methodologies like Scrum and Agile.
 
-We also believe in a **fail fast-fail safe** culture and openness to the idea of **failure** itself. Failures are only considered if there is nothing to learn from those failures. However, one must fail sustainably, and we believe that failures can be engineered to fail safely.
+We also believe in a **fail fast-fail safe** culture. Failures are supplementary and such failures are only considered failures if there is nothing to learn from them. One must fail safely whenever possible.
 
 We believe in the necessity of **chaos engineering** when testing a system's reliability. While it is not yet applicable at Deltafy's current scale, we are open to ideas of engineering one's way to failure when it is possible and when it is necessary for growth and testing resiliency. The only rule is to engineer [deterministic chaos](https://annex.exploratorium.edu/complexity/CompLexicon/chaos.html).
 
