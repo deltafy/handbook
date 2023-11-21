@@ -39,7 +39,7 @@ Everyone is a **thinker**.
 
 In this case, our culture of thinking revolves around two fundamental schools of thought: **Idealism** and **Pragmatism**.
 
-We believe that an idealism and pragmatism are complementary traits that everyone in Deltafy must possess. The primary mechanical force that will guide Deltafy in its pursuit is everyone's ability to balance these two contrasting aspects.
+We believe that idealism and pragmatism are complementary traits that everyone in Deltafy must possess. The primary mechanical force that will guide Deltafy in its pursuit is everyone's ability to balance these two contrasting aspects.
 
 Everyone is encouraged to exercise and express brilliant ideas, solutions, and visions, regardless of how unrealistic they may be. At the same time, one should retain the pragmatism that is needed to introspect and examine one's own faults and errors, especially in one's own abstract ideas. 
 
@@ -61,7 +61,7 @@ In circumstances where peace may not be an option, whether it is due to a living
 
 ### Basics
 
-We are strong believers of the Lean Startup Methodology and the IBM Garage Methodology. The upcoming sections mostly take inspirations from these two approaches.
+We are strong supporters of the Lean Startup Methodology and the IBM Garage Methodology. The upcoming sections mostly take inspirations from these two approaches.
 
 ### Ideation
 
@@ -75,7 +75,9 @@ There are also frameworks you can utilize for evaluating ideas. There is the [IC
 
 At the end of the day, we look at every idea as a set of hypotheses that must be tested. Thus, it is not highly necesary to come up with a very comprehensive business plan. 
 
-It is important that an idea should not stay untested for too long. If testing is not possible, uncertainties must be gradually cleared over time.
+It is important that an idea should not stay untested for too long. If testing is not possible, uncertainties must be gradually cleared over time. 
+
+Clearing such uncertainties would require different means or strategies, but the most common approach is to combine thought experiments with existing literature/knowledge.
 
 ### Product Development
 
@@ -83,11 +85,17 @@ In general, product development is an iterative cycle of building, upgrading, te
 
 Specifically, when building products or pursuing projects, a feedback-driven lifecycle is encouraged. This is for the purpose of what is called **validated learning** (i.e. validating an idea directly from customers or users). This is employed in methodologies like Scrum and Agile.
 
-We also believe in a **fail fast-fail safe** culture. Failures are supplementary and such failures are only considered failures if there is nothing to learn from them. One must fail safely whenever possible.
+We also believe in a **fail fast-fail safe** culture. It is important to crush the notion that failures are absolute failures. In fact, failures are important components to success and they help a lot in improving future development iterations. A failure is considered an absolute failure if it brings no value or there is nothing to learn or gain from it. 
+
+However, keep in mind that in order to build sustainably, it is important to minimize the impact of potential failure. In this case, fallback or safety mechanisms must be in place when they are possible to implement.
 
 We believe in the necessity of **chaos engineering** when testing a system's reliability. While it is not yet applicable at Deltafy's current scale, we are open to ideas of engineering one's way to failure when it is possible and when it is necessary for growth and testing resiliency. The only rule is to engineer [deterministic chaos](https://annex.exploratorium.edu/complexity/CompLexicon/chaos.html).
 
-The idea of a _perfect product_ is also a myth. One must not fear embracing a state of _"forever beta"_. However, one must not also be foolish to not recognize sunk-cost fallacy.
+The idea of a _perfect product_ is also a myth. One must not fear embracing a state of _"forever beta"_.
+
+To build sustainably, everyone must be aware of **sunk-cost fallacy**. Everyone should have a good intuition of when to stop trying, especially when the costs already outweigh the benefits. 
+
+Engineers should also be wary of **premature optimization**. One should not (1) optimize too much when such an optimization is not needed, or (2) optimize too early when a setup is not yet ready for such optimizations.
 
 We should also not be afraid of [doing things that don't scale](http://paulgraham.com/ds.html) when left with no other feasible options, especially when it is the only way to test a hypothesis.
 
