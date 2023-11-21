@@ -97,12 +97,14 @@ Time is a finite resource that each and every one of us who are bound to the law
 
 It is paramount for people to gain satisfaction from the things they do. In this case, everyone must be granted the flexibility and opportunity to build until they manage to achieve satisfaction and take pride in the things they manage to accomplish. The only rule is to build sustainably and take ownership.
 
-## Experimentation
+### Experimentation
 
-We encourage the adoption of frameworks and best practices. However, we also believe that strong adherence to convention impedes an individual's openness towards new ideas and lessens room for growth. 
+While we encourage the adoption of frameworks and best practices, we also believe that strong adherence to convention impedes one's openness towards new ideas and lessens the room for growth.
 
-We believe in the need to _responsibly_ unleash from structure and authoritative knowledge to achieve true innovation. We believe that innovation is a set of processes that must take place to achieve true metamorphosis.
+True innovation is the painstaking process of experimentation, not having full certainty of whether an experiment will be highly successful or not. To adhere to this definition of innovation, we believe in the need to _responsibly_ unleash from structure and authoritative knowledge.
 
 ## Footnote
 
-At the end of the day, the culture that Deltafy tries to foster is not a salary. However, it is the culture that we could certainly say is not parasitic of its constituents, but rather puts mutualistic growth as its utmost priority.
+At the end of the day, the culture that Deltafy tries to foster is not a salary or incentive. However, we can say with certainty that this is a form of culture that does not parasitize its constituents, but rather prioritizes holism and mutualistic growth.
+
+We are all ships sailing towards the same horizon.
