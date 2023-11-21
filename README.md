@@ -105,6 +105,8 @@ True innovation is the painstaking process of experimentation, not having full c
 
 ## Footnote
 
-At the end of the day, the culture that Deltafy tries to foster is not a salary or incentive. However, we can say with certainty that this is a form of culture that does not parasitize its constituents, but rather prioritizes holism and mutualistic growth.
+The culture that Deltafy tries to foster is not a salary, and we do not see culture as some form of incentive for people to work better or to be more productive. Rather, we see culture as a way to define the things that would help turn hackers into better thinkers.
+
+The culture we are trying to build is one that we can say with certainty that does not encourage good behavior and professional conduct to parasitize its constituents. Rather, it is a culture that puts mutualistic growth at its utmost priority, as we highly believe that ensuring individual growth and autonomy are essential to achieving synergy.
 
 We are all ships sailing towards the same horizon.
