@@ -71,21 +71,21 @@ Business plans rely on untested hypotheses and only the true conception of a pro
 
 In the case of ideation, we trust everyone's judgment to evaluate his/her own idea, introspect for errors, and objectively foresee its future impact and potential.
 
-There are also frameworks you can utilize for evaluating ideas. There is the [ICE framework](https://www.productplan.com/glossary/ice-scoring-model/), Bryan Eisenberg's [TIR framework](https://www.bryaneisenberg.com/3-steps-to-better-prioritization-and-faster-execution/), and many others. Once again, it is up to your personal judgment on how you evaluate your ideas.
+Templates like the Lean Canvas and Business Model Canvas can be freely utilized. There are also frameworks you can utilize for evaluating ideas. There is the [ICE framework](https://www.productplan.com/glossary/ice-scoring-model/), Bryan Eisenberg's [TIR framework](https://www.bryaneisenberg.com/3-steps-to-better-prioritization-and-faster-execution/), and many others. Once again, it is up to your personal judgment on how you evaluate your ideas.
 
-At the end of the day, we look at every idea as a set of hypotheses that must be tested. Thus, it is not highly necesary to come up with a very comprehensive business plan. 
+However, this is where our philosophy towards ideation diverges with the existing methodologies. As a startup with genuine intentions of helping humanity by any means, _profitability_ is just a secondary criteria in our idea validation process. We prefer an engineer-first approach and we believe that ideas must be validated in terms of mechanics and practicality. It is the utility of an idea which should justify whether it is profitable or not, or impactful or not.
 
-It is important that an idea should not stay untested for too long. If testing is not possible, uncertainties must be gradually cleared over time. 
+At the end of the day, we look at every idea as a collection of hypotheses that must be tested and validated. There is no need to come up with a comprehensive business plan for an idea.
 
-Clearing such uncertainties would require different means or strategies, but the most common approach is to combine thought experiments with existing literature/knowledge.
+It is important that an idea should not stay untested for too long. If testing is not possible, uncertainties must be gradually cleared over time. Clearing such uncertainties would require different means or strategies, but the most common approach is to combine thought experiments with existing literature/knowledge.
 
 ### Product Development
 
-In general, product development is an iterative cycle of building, upgrading, testing hypotheses, and responding to user feedback and demands.
+Generally, the product development process in Deltafy is an iterative cycle of building, upgrading, testing hypotheses, and responding to user feedback and demands.
 
-Specifically, when building products or pursuing projects, a feedback-driven lifecycle is encouraged. This is for the purpose of what is called **validated learning** (i.e. validating an idea directly from customers or users). This is employed in methodologies like Scrum and Agile.
+Specifically, when building products or pursuing projects, a feedback-driven lifecycle is encouraged. This is for the purpose of what is called **validated learning** (i.e. validating an idea directly from customers or users) and it is employed in methodologies like Scrum and Agile. In short, every iteration is dictated by user feedback and test outcomes.
 
-We also believe in a **fail fast-fail safe** culture. It is important to crush the notion that failures are absolute failures. In fact, failures are important components to success and they help a lot in improving future development iterations. A failure is considered an absolute failure if it brings no value or there is nothing to learn or gain from it. 
+To enforce a **fail-fast-fail safe** culture, it is important to crush the notion that failures are absolute failures. Failures are important components to success and they help a lot in improving future development iterations. A failure is only considered an absolute failure if it brings no value and there is nothing to learn or gain from it.
 
 However, keep in mind that in order to build sustainably, it is important to minimize the impact of potential failure. In this case, fallback or safety mechanisms must be in place when they are possible to implement.
 
@@ -95,7 +95,10 @@ The idea of a _perfect product_ is also a myth. One must not fear embracing a st
 
 To build sustainably, everyone must be aware of **sunk-cost fallacy**. Everyone should have a good intuition of when to stop trying, especially when the costs already outweigh the benefits. 
 
-Engineers should also be wary of **premature optimization**. One should not (1) optimize too much when such an optimization is not needed, or (2) optimize too early when a setup is not yet ready for such optimizations.
+While we highly encourage seeking and implementing optimal solutions, engineers should still be wary of [**premature optimization**](https://wiki.c2.com/?PrematureOptimization). You can read more about premature optimization from [this paper](https://ubiquity.acm.org/article.cfm?id=1513451). In summary, one should not:
+
+* optimize too much when such optimizations are not highly needed.
+* optimize too early when the setup is not yet ready for such optimizations.
 
 We should also not be afraid of [doing things that don't scale](http://paulgraham.com/ds.html) when left with no other feasible options, especially when it is the only way to test a hypothesis.
 
