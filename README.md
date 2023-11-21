@@ -4,12 +4,6 @@
 
 **This handbook serves as a fundamental guide about Deltafy and its core values.**
 
-## Story
-
-Deltafy is conceived in 2023 by two (2) people who envisioned 
-
-This handbook serves as a guide on what Deltafy is all about, what it tries to achieve, and how it is going to achieve and materialize its visions. In addition, this also serves as a guide on the culture that it aims to cultivate
-
 ## Culture
 
 The core to every successful venture is not a brilliant business model or product, but the culture it tries to mold.
@@ -20,27 +14,48 @@ By autonomy, we believe at everyone's ability to steer their own ships while sta
 
 * at everyone's ability to take ownership.
 * at everyone's ability to exercise self-leadership.
-* at everyone's ability to trust their judgments.
+* at everyone's ability to use good judgments.
 * at everyone's ability to make informed decisions and intuitions.
 * at everyone's ability to express themselves freely.
 * at everyone's ability to take initiative.
 * at everyone's ability to stay resilient in times of ambiguity and uncertainty.
+* at everyone's ability to learn and relentlessly strive for growth.
 * at everyone's ability to provide, learn from, and absorb constructive criticism.
-* at everyone's ability to acknowledge universal morals, regardless of religion, culture, and political inclinations.
+* at everyone's responsibility to exercise universal morals, regardless of religion, culture, and political inclinations.
 
-Contrary to popular belief, the idea of a _high-performing team_ is not made through rigid structure and a strict playbook. A team's success should not be measured only by the value they brought in the table, but also the individual satisfaction that everyone receives in the game.
+### Team Structure
+
+Contrary to popular belief, the idea of a _high-performing team_ is not made through rigid structure and a strict playbook. A team's success should not be measured only by the value that individuals bring in the table, but also the satisfaction that every individual receives in the game and playing with the team.
 
 There is beauty in chaos, and the beauty of nature itself is built from chaos. All magnificient things in nature share one thing in common: they are all formed by the coalescence of atoms with diverse intrinsic properties.
 
-In the context of teams and organizations, we believe in the idea of natural selection. In other words, we believe that successful teams are made out of diverse and autonomous individuals who make efforts in giving mutual respect, aligning their values, and encouraging open communication.
+In the context of teams and organizations, we believe in the idea of natural selection. In other words, we believe that unbreakable team cohesion is built around chaotic systems, and chaotic and disorganized teams naturally amalgamate. 
 
-**Idealism** and **Pragmatism** are complementary traits that everyone in Deltafy must possess. The primary mechanical force that will guide Deltafy in its pursuit is everyone's ability to balance these two contrasting aspects.
+We highly believe that a very effective team is made out of diverse and autonomous individials who know how to lead themselves, advocate for open communication, build mutual respect, and make efforts in aligning values.
 
-Everyone must be able to exercise and express brilliant ideas, solutions, and visions, regardless of how unrealistic they may be. At the same time, everyone must be pragmatic enough to examine the faults and errors in their abstract ideas, and must be open enough to constructive criticism. 
+### Culture of Thinking
 
-Just like Deltafy is founded by individuals who since aimed to make an impact and change the world, everyone must aim for making the world a better place and everyone's lives better than it should be.
+Everyone is a **thinker**.
 
-At the end of the day, the culture that Deltafy tries to foster is not a salary. However, it is the culture that we could certainly say is not parasitic of its constituents, but rather puts mutualistic growth as its utmost priority.
+In this case, our culture of thinking revolves around two fundamental schools of thought: **Idealism** and **Pragmatism**.
+
+We believe that an idealism and pragmatism are complementary traits that everyone in Deltafy must possess. The primary mechanical force that will guide Deltafy in its pursuit is everyone's ability to balance these two contrasting aspects.
+
+Everyone is encouraged to exercise and express brilliant ideas, solutions, and visions, regardless of how unrealistic they may be. At the same time, one should retain the pragmatism that is needed to introspect and examine one's own faults and errors, especially in one's own abstract ideas. 
+
+Constructive criticism is also essential and everyone must be open to receiving and learning from it. No mental realms shall remain unmerged and unexamined.
+
+It is recommended to practice the [Socratic Method](https://lucidphilosophy.com/chapter-4-socratic-method/) and the [Harkness Method](https://www.exeter.edu/excellence/how-youll-learn) when discussing ideas.
+
+### World View and Ethics
+
+Deltafy is founded by individuals who since aimed to make an impact and change the world.
+
+It is indispensable for everyone in Deltafy to aim for making the world a better place and making everyone's lives better than it should be.
+
+Every human being has the natural innate capacity to distinguish what is universally moral. There is no need for debate to discuss what is right and wrong.
+
+In circumstances where peace may not be an option, whether it is due to a living or a non-living threat, one must make efforts to protect humanity from subjugation and uncompromising evil.
 
 ## Methodology
 
@@ -58,7 +73,9 @@ In the case of ideation, we trust everyone's judgment to evaluate his/her own id
 
 There are also frameworks you can utilize for evaluating ideas. There is the [ICE framework](https://www.productplan.com/glossary/ice-scoring-model/), Bryan Eisenberg's [TIR framework](https://www.bryaneisenberg.com/3-steps-to-better-prioritization-and-faster-execution/), and many others. Once again, it is up to your personal judgment on how you evaluate your ideas.
 
-At the end of the day, we look at every idea as a set of hypotheses that must be tested. Thus, it is not highly necesary to come up with a very comprehensive business plan. It is highly important that an idea should not stay untested for too long, and practical uncertainties must be gradually cleared over time.
+At the end of the day, we look at every idea as a set of hypotheses that must be tested. Thus, it is not highly necesary to come up with a very comprehensive business plan. 
+
+It is important that an idea should not stay untested for too long. If testing is not possible, uncertainties must be gradually cleared over time.
 
 ### Product Development
 
@@ -66,17 +83,26 @@ In general, product development is an iterative cycle of building, upgrading, te
 
 Specifically, when building products or pursuing projects, a feedback-driven lifecycle is encouraged. This is for the purpose of what is called **validated learning** (i.e. validating an idea directly from customers or users). This is employed in methodologies like Scrum and Agile.
 
-In addition, we should not be afraid of embracing a state of _"forever beta"_. The idea of a perfect product is a myth.
+We also believe in a **fail fast-fail safe** culture and openness to the idea of **failure** itself. Failures are only considered if there is nothing to learn from those failures. However, one must fail sustainably, and we believe that failures can be engineered to fail safely.
 
-We should not be afraid of [doing things that don't scale](http://paulgraham.com/ds.html) when left with no other feasible options.
+We believe in the necessity of **chaos engineering** when testing a system's reliability. While it is not yet applicable at Deltafy's current scale, we are open to ideas of engineering one's way to failure when it is possible and when it is necessary for growth and testing resiliency. The only rule is to engineer [deterministic chaos](https://annex.exploratorium.edu/complexity/CompLexicon/chaos.html).
 
-We also believe in **chaos engineering** as one way to test reliability. While it is not yet applicable at the current scale of Deltafy, failure can be engineered when possible, and one can make ways and plan for [deterministic chaos](https://annex.exploratorium.edu/complexity/CompLexicon/chaos.html).
+The idea of a _perfect product_ is also a myth. One must not fear embracing a state of _"forever beta"_. However, one must not also be foolish to not recognize sunk-cost fallacy.
 
-To conclude this section, it is important to emphasize that it is paramount for people to gain satisfaction from the things they do while building things sustainably. In this case, we believe that everyone must be given the flexibility and opportunity to build until they manage to achieve satisfaction and take pride in the things they manage to accomplish, while still keeping one's ownership and responsibility in mind.
+We should also not be afraid of [doing things that don't scale](http://paulgraham.com/ds.html) when left with no other feasible options, especially when it is the only way to test a hypothesis.
+
+### Work
+
+Time is a finite resource that each and every one of us who are bound to the laws of nature must manage. In the context of work, we trust everyone's ability to use their own good personal judgment in managing it.
+
+It is paramount for people to gain satisfaction from the things they do. In this case, everyone must be granted the flexibility and opportunity to build until they manage to achieve satisfaction and take pride in the things they manage to accomplish. The only rule is to build sustainably and take ownership.
 
 ## Experimentation
 
-Deltafy is not your typical startup. We encourage the adoption of frameworks and best practices. However, we also believe that strong adherence to convention impedes an individual's openness towards new ideas and lessens room for growth. 
+We encourage the adoption of frameworks and best practices. However, we also believe that strong adherence to convention impedes an individual's openness towards new ideas and lessens room for growth. 
 
 We believe in the need to _responsibly_ unleash from structure and authoritative knowledge to achieve true innovation. We believe that innovation is a set of processes that must take place to achieve true metamorphosis.
 
+## Footnote
+
+At the end of the day, the culture that Deltafy tries to foster is not a salary. However, it is the culture that we could certainly say is not parasitic of its constituents, but rather puts mutualistic growth as its utmost priority.
