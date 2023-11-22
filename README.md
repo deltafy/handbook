@@ -26,7 +26,7 @@ Most important of all, we believe that it is everyone's responsibility to uphold
 
 ### Team Structure
 
-Contrary to popular belief, the idea of a _high-performing team_ is not made through rigid structure and a strict playbook. A team's success should not be measured only by the value that individuals bring in the table, but also the satisfaction that every individual receives in the game and playing with the team.
+Contrary to popular belief, the idea of a _high-performing team_ is not made through rigid structure and a strict playbook. A team's success should not be measured only by the value that individuals bring on the table, but also the satisfaction that every individual receives in the game and playing with the team.
 
 There is beauty in chaos, and the beauty of nature itself is built from chaos. All magnificient things in nature share one thing in common: they are all formed by the coalescence of atoms with diverse intrinsic properties.
 
@@ -68,25 +68,25 @@ We are strong supporters of the Lean Startup Methodology and the IBM Garage Meth
 
 We do not believe in a [perfect business plan](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything).
 
-Business plans rely on untested hypotheses and only the true conception of a product or service can test these hypotheses. In other words, a successful venture is only defined by its execution.
+Business plans help answer the first questions that must be answered when evaluating an idea, but they also rely on untested hypotheses. We believe that only the true conception of a product or service can test these hypotheses. In other words, a successful venture is defined by its execution.
 
 In the case of ideation, we trust everyone's judgment to evaluate his/her own idea, introspect for errors, and objectively foresee its future impact and potential.
 
 Templates like the Lean Canvas and Business Model Canvas can be freely utilized. There are also frameworks you can utilize for evaluating ideas. There is the [ICE framework](https://www.productplan.com/glossary/ice-scoring-model/), Bryan Eisenberg's [TIR framework](https://www.bryaneisenberg.com/3-steps-to-better-prioritization-and-faster-execution/), and many others. Once again, it is up to your personal judgment on how you evaluate your ideas.
 
-However, this is where our philosophy towards ideation diverges with the existing methodologies. As a startup with genuine intentions of helping humanity by any means, _profitability_ is just a secondary criteria in our idea validation process. We prefer an engineer-first approach and we believe that ideas must be validated in terms of mechanics and practicality. It is the utility of an idea which should justify whether it is profitable or not, or impactful or not.
+However, this is where our philosophy towards ideation diverges with the existing methodologies. As a startup with genuine intentions of helping humanity by any means, _profitability_ is just a secondary criteria in our idea validation process. 
 
-At the end of the day, we look at every idea as a collection of hypotheses that must be tested and validated. There is no need to come up with a comprehensive business plan for an idea.
+Instead, we want everyone to approach ideas like engineers. We validate ideas in terms of mechanics and practicality. We focus more on the overall cost of pursuing an idea and how the costs can be optimized before considering the potential returns. We believe that the utility of an idea should justify whether it is profitable or not, or impactful or not. We prefer to [build instead of making promises](https://youtu.be/iojdaN9D9qw?si=3G30XMB3ssKQOeHy&t=87).
 
-If testing an idea is not possible, uncertainties must be gradually cleared over time, and such uncertainties would require different strategies to be dealt with.
+At the end of the day, every idea is a collection of hypotheses that must be tested and validated. A highly comprehensive business plan only tends to obscure the actual beauty of an idea and the value it can truly deliver.
 
-There are a few strategies, such as:
-* use thought experiments with existing literature/knowledge (useful in understanding hypothetical aspects of an idea).
+When testing an idea is not possible (possibly due to lack of resources or subject matter expertise), uncertainties must be gradually cleared over time, and such uncertainties would require different strategies to be dealt with. There are a few strategies, such as:
+* using thought experiments and supplementing them with existing literature/knowledge (useful in understanding the hypothetical/theoretical aspects of an idea).
 * dissect an idea into multiple components and work on the most challenging ones (useful when it is reasonable to immediately invest resources and/or time in the idea).
 
 We do not impose strict structures when it comes to idea validation. It is important that ideas should not stay untested for a long time, and idea validation should not impede the materialization of the idea. In addition, we prefer less structure on idea validation as we want to give a lot of room for expression, especially if an idea focuses more on social justice instead of a for-profit product/service.
 
-We also highly trust everyone's judgment when it comes to identifying whether an idea is feasible or not, as long as there is an open communication channel for evaluating ideas.
+We also highly trust everyone's judgment when it comes to identifying whether an idea is feasible or not, as long as there is an open communication channel and environment for evaluating ideas.
 
 ### Product Development Lifecycle
 
