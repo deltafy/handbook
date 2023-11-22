@@ -77,7 +77,13 @@ However, this is where our philosophy towards ideation diverges with the existin
 
 At the end of the day, we look at every idea as a collection of hypotheses that must be tested and validated. There is no need to come up with a comprehensive business plan for an idea.
 
-It is important that an idea should not stay untested for too long. If testing is not possible, uncertainties must be gradually cleared over time. Clearing such uncertainties would require different means or strategies, but the most common approach is to combine thought experiments with existing literature/knowledge.
+If testing an idea is not possible, uncertainties must be gradually cleared over time, and such uncertainties would require different strategies to be dealt with.
+
+There are a few strategies, such as:
+* use thought experiments with existing literature/knowledge (useful in understanding hypothetical aspects of an idea).
+* dissect an idea into multiple components and work on the most challenging ones (useful when it is reasonable to immediately invest resources and/or time in the idea).
+
+Ideas should not stay untested. We do not impose strict structures on idea validation as we believe that planning should supplement ideation, and rigorous planning should not impede an idea's materialization. We also highly trust everyone's judgment when it comes to identifying whether an idea is feasible or not, as long as there is an open communication channel for evaluating ideas.
 
 ### Product Development Lifecycle
 
