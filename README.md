@@ -79,28 +79,39 @@ At the end of the day, we look at every idea as a collection of hypotheses that 
 
 It is important that an idea should not stay untested for too long. If testing is not possible, uncertainties must be gradually cleared over time. Clearing such uncertainties would require different means or strategies, but the most common approach is to combine thought experiments with existing literature/knowledge.
 
-### Product Development
+### Product Development Lifecycle
 
 Generally, the product development process in Deltafy is an iterative cycle of building, upgrading, testing hypotheses, and responding to user feedback and demands.
 
-Specifically, when building products or pursuing projects, a feedback-driven lifecycle is encouraged. This is for the purpose of what is called **validated learning** (i.e. validating an idea directly from customers or users) and it is employed in methodologies like Scrum and Agile. In short, every iteration is dictated by user feedback and test outcomes.
+Each iteration is dictated by user feedback and test outcomes. This is for the purpose of what is **validated learning** (i.e. validating an idea directly from customers or users) and it is employed in methodologies like Scrum and Agile.
+
+The idea of a _perfect product_ is also a myth. One must not fear embracing a state of _"forever beta"_ (a state where the product can't achieve complete perfection and it is in a relatively endless cycle of development).
+
+We should also not be afraid of [doing things that don't scale](http://paulgraham.com/ds.html) when left with no other feasible options, especially when it is the only way to test a hypothesis.
+
+### Experimentation
+
+While we encourage the adoption of frameworks and best practices, we also believe that strong adherence to convention impedes one's openness towards new ideas and lessens the room for growth.
+
+True innovation is a painstaking process and it often involves experimentation. Most of the time, there is also no certainty to whether these experiments will yield favorable results or not. In this case, adhering to this definition of innovation, we believe that it is sometimes necessary to _responsibly_ unleash oneself from structure and authoritative knowledge.
+
+### Fail Fast-Fail Safe
 
 To enforce a **fail-fast-fail safe** culture, it is important to crush the notion that failures are absolute failures. Failures are important components to success and they help a lot in improving future development iterations. A failure is only considered an absolute failure if it brings no value and there is nothing to learn or gain from it.
 
-However, keep in mind that in order to build sustainably, it is important to minimize the impact of potential failure. In this case, fallback or safety mechanisms must be in place when they are possible to implement.
+While we are open to the idea of failing to achieve good outcomes, we believe that (1) failure is a partially controllable variable and (2) _sustainable_ development is a team and individual responsibility. There are a few things to keep in mind:
 
-We believe in the necessity of **chaos engineering** when testing a system's reliability. While it is not yet applicable at Deltafy's current scale, we are open to ideas of engineering one's way to failure when it is possible and when it is necessary for growth and testing resiliency. The only rule is to engineer [deterministic chaos](https://annex.exploratorium.edu/complexity/CompLexicon/chaos.html).
+1. Everyone must be aware of **sunk-cost fallacy**. Everyone should have a good intuition of when to stop trying, especially when the costs already outweigh the benefits.
+2. Engineers must be wary of [**premature optimization**](https://wiki.c2.com/?PrematureOptimization). You can read more about premature optimization from [this paper](https://ubiquity.acm.org/article.cfm?id=1513451). In short, one should not:
+    * optimize too much when such optimizations are not highly needed.
+    * optimize too early when the setup is not yet ready for such optimizations.
+3. Failure can be engineered in three (3) ways:
+    * have safety mechanisms in place to minimize the impact of such failures.
+    * have testing mechanisms in place to detect potential causes of failures.
 
-The idea of a _perfect product_ is also a myth. One must not fear embracing a state of _"forever beta"_.
+We also believe in the significance of **chaos engineering** when testing a system's reliability. While it is not yet applicable at Deltafy's current scale, we are open to ideas of engineering an idea to fail when it is possible and when it is truly necessary for growth and testing its resiliency.
 
-To build sustainably, everyone must be aware of **sunk-cost fallacy**. Everyone should have a good intuition of when to stop trying, especially when the costs already outweigh the benefits. 
-
-While we highly encourage seeking and implementing optimal solutions, engineers should still be wary of [**premature optimization**](https://wiki.c2.com/?PrematureOptimization). You can read more about premature optimization from [this paper](https://ubiquity.acm.org/article.cfm?id=1513451). In summary, one should not:
-
-* optimize too much when such optimizations are not highly needed.
-* optimize too early when the setup is not yet ready for such optimizations.
-
-We should also not be afraid of [doing things that don't scale](http://paulgraham.com/ds.html) when left with no other feasible options, especially when it is the only way to test a hypothesis.
+When it comes to failing, the only rule is to keep one thing in mind: [deterministic chaos](https://annex.exploratorium.edu/complexity/CompLexicon/chaos.html).
 
 ### Work
 
@@ -108,16 +119,10 @@ Time is a finite resource that each and every one of us who are bound to the law
 
 It is paramount for people to gain satisfaction from the things they do. In this case, everyone must be granted the flexibility and opportunity to build until they manage to achieve satisfaction and take pride in the things they manage to accomplish. The only rule is to build sustainably and take ownership.
 
-### Experimentation
-
-While we encourage the adoption of frameworks and best practices, we also believe that strong adherence to convention impedes one's openness towards new ideas and lessens the room for growth.
-
-True innovation is the painstaking process of experimentation, not having full certainty of whether an experiment will be highly successful or not. To adhere to this definition of innovation, we believe in the need to _responsibly_ unleash from structure and authoritative knowledge.
-
 ## Footnote
 
-The culture that Deltafy tries to foster is not a salary, and we do not see culture as some form of incentive for people to work better or to be more productive. Rather, we want to develop a culture that is based on behaviors that will turn hackers into better thinkers.
+The culture that Deltafy tries to foster is not a salary, and we do not see culture as some form of incentive for people to work better or to be more productive. Rather, we want to develop a culture that is based on behaviors that will turn brilliant hackers into better thinkers.
 
-The culture we are trying to build is one that we can say with certainty that does not encourage good behavior and professional conduct to parasitize its constituents. Rather, it is a culture that puts mutualistic growth at its utmost priority, as we highly believe that ensuring individual growth and autonomy are essential to achieving synergy.
+We can say with certainty that the culture we are trying to build is one that does not encourage good behavior and professional conduct to parasitize its constituents. Rather, we are building a culture that puts mutualistic growth at its utmost priority, as we strongly believe that synergy can only be achieved by ensuring individual growth and autonomy.
 
 We are all ships sailing towards the same horizon.
