@@ -108,6 +108,7 @@ While we are open to the idea of failing to achieve good outcomes, we believe th
 3. Failure can be engineered in three (3) ways:
     * have safety mechanisms in place to minimize the impact of such failures.
     * have testing mechanisms in place to detect potential causes of failures.
+    * make failure predictable.
 
 We also believe in the significance of **chaos engineering** when testing a system's reliability. While it is not yet applicable at Deltafy's current scale, we are open to ideas of engineering an idea to fail when it is possible and when it is truly necessary for growth and testing its resiliency.
 
