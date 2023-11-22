@@ -21,7 +21,8 @@ By autonomy, we believe at everyone's ability to steer their own ships while sta
 * at everyone's ability to stay resilient in times of ambiguity and uncertainty.
 * at everyone's ability to learn and relentlessly strive for growth.
 * at everyone's ability to provide, learn from, and absorb constructive criticism.
-* at everyone's responsibility to exercise universal morals, regardless of religion, culture, and political inclinations.
+
+Most important of all, we believe that it is everyone's responsibility to uphold universal moral principles, regardless of religion, culture, race, and political inclination.
 
 ### Team Structure
 
@@ -65,7 +66,7 @@ We are strong supporters of the Lean Startup Methodology and the IBM Garage Meth
 
 ### Ideation
 
-We do not believe in a perfect business plan.
+We do not believe in a [perfect business plan](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything).
 
 Business plans rely on untested hypotheses and only the true conception of a product or service can test these hypotheses. In other words, a successful venture is only defined by its execution.
 
@@ -83,7 +84,9 @@ There are a few strategies, such as:
 * use thought experiments with existing literature/knowledge (useful in understanding hypothetical aspects of an idea).
 * dissect an idea into multiple components and work on the most challenging ones (useful when it is reasonable to immediately invest resources and/or time in the idea).
 
-Ideas should not stay untested. We do not impose strict structures on idea validation as we believe that planning should supplement ideation, and rigorous planning should not impede an idea's materialization. We also highly trust everyone's judgment when it comes to identifying whether an idea is feasible or not, as long as there is an open communication channel for evaluating ideas.
+We do not impose strict structures when it comes to idea validation. It is important that ideas should not stay untested for a long time, and idea validation should not impede the materialization of the idea. In addition, we prefer less structure on idea validation as we want to give a lot of room for expression, especially if an idea focuses more on social justice instead of a for-profit product/service.
+
+We also highly trust everyone's judgment when it comes to identifying whether an idea is feasible or not, as long as there is an open communication channel for evaluating ideas.
 
 ### Product Development Lifecycle
 
