@@ -97,7 +97,7 @@ True innovation is a painstaking process and it often involves experimentation. 
 
 ### Fail Fast-Fail Safe
 
-To enforce a **fail-fast-fail safe** culture, it is important to crush the notion that failures are absolute failures. Failures are important components to success and they help a lot in improving future development iterations. A failure is only considered an absolute failure if it brings no value and there is nothing to learn or gain from it.
+To enforce a **fail fast-fail safe** culture, it is important to crush the notion that failures are absolute failures. Failures are important components to success and they help a lot in improving future development iterations. A failure is only considered an absolute failure if it brings no value and there is nothing to learn or gain from it.
 
 While we are open to the idea of failing to achieve good outcomes, we believe that (1) failure is a partially controllable variable and (2) _sustainable_ development is a team and individual responsibility. There are a few things to keep in mind:
 
@@ -110,9 +110,7 @@ While we are open to the idea of failing to achieve good outcomes, we believe th
     * have testing mechanisms in place to detect potential causes of failures.
     * make failure predictable.
 
-We also believe in the significance of **chaos engineering** when testing a system's reliability. While it is not yet applicable at Deltafy's current scale, we are open to ideas of engineering an idea to fail when it is possible and when it is truly necessary for growth and testing its resiliency.
-
-When it comes to failing, the only rule is to keep one thing in mind: [deterministic chaos](https://annex.exploratorium.edu/complexity/CompLexicon/chaos.html).
+We also believe in the significance of **chaos engineering** when testing a system's reliability. While it is not yet applicable at Deltafy's current scale, we are open to ideas of engineering a product to fail when it is possible and when it is truly necessary for growth and for testing a product's resiliency.
 
 ### Work
 
