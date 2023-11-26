@@ -2,13 +2,13 @@
 
 ## Overview
 
-**This handbook serves as a fundamental guide about Deltafy and its core values.**
+**This handbook serves as a guide about Deltafy's core values.**
 
 ## Culture
 
 The core to every successful venture is not a brilliant business model or product, but the culture it tries to mold.
 
-We believe that everyone in Deltafy is a **leader**. To do so, **autonomy** must be granted for everyone to be one.
+We believe that everyone in Deltafy is a **leader**. In this case, **autonomy** must be granted for everyone to be one.
 
 By autonomy, we believe at everyone's ability to steer their own ships while staying on the right direction. Specifically, we believe:
 
@@ -26,7 +26,7 @@ Most important of all, we believe that it is everyone's responsibility to uphold
 
 ### Team Structure
 
-Contrary to popular belief, the idea of a _high-performing team_ is not made through rigid structure and a strict playbook. A team's success should not be measured only by the value that individuals bring on the table, but also the satisfaction that every individual receives in the game and playing with the team.
+Contrary to popular belief, a _high-performing team_ is not created through rigid structure and a strict playbook. A team's success should not be measured only by the value that individuals bring on the table, but also the satisfaction that every individual receives in the game and playing with the team.
 
 There is beauty in chaos, and the beauty of nature itself is built from chaos. All magnificient things in nature share one thing in common: they are all formed by the coalescence of atoms with diverse intrinsic properties.
 
