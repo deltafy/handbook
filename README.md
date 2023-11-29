@@ -10,29 +10,20 @@ The core to every successful venture is not a brilliant business model or produc
 
 We believe that everyone in Deltafy is a **leader**. In this case, **autonomy** must be granted for everyone to be one.
 
-By autonomy, we believe at everyone's ability to steer their own ships while staying on the right direction. Specifically, we believe:
+By autonomy, we believe at everyone's ability to steer their own ships while staying on the right direction. Specifically, we believe in everyone's ability to:
 
-* at everyone's ability to take ownership.
-* at everyone's ability to exercise self-leadership.
-* at everyone's ability to use good judgments.
-* at everyone's ability to make informed decisions and intuitions.
-* at everyone's ability to express themselves freely.
-* at everyone's ability to take initiative.
-* at everyone's ability to stay resilient in times of ambiguity and uncertainty.
-* at everyone's ability to learn and relentlessly strive for growth.
-* at everyone's ability to provide, learn from, and absorb constructive criticism.
+* take ownership.
+* exercise self-leadership.
+* use good judgments.
+* make informed decisions and intuitions.
+* express themselves freely.
+* take initiative.
+* stay resilient in times of ambiguity and uncertainty.
+* learn and relentlessly strive for growth.
+* provide, learn from, and absorb constructive criticism.
+* ask for help.
 
 Most important of all, we believe that it is everyone's responsibility to uphold universal moral principles, regardless of religion, culture, race, and political inclination.
-
-### Team Structure
-
-Contrary to popular belief, a _high-performing team_ is not created through rigid structure and a strict playbook. A team's success should not be measured only by the value that individuals bring on the table, but also the satisfaction that every individual receives in the game and playing with the team.
-
-There is beauty in chaos, and the beauty of nature itself is built from chaos. All magnificient things in nature share one thing in common: they are all formed by the coalescence of atoms with diverse intrinsic properties.
-
-In the context of teams and organizations, we believe in the idea of natural selection. In other words, we believe that unbreakable team cohesion is built around chaotic systems, and chaotic and disorganized teams naturally amalgamate. 
-
-We highly believe that a very effective team is made out of diverse and autonomous individuals who make efforts in leading themselves, advocating for open communication and transparency, building healthy relationships, establishing respectful and healthy relationships, and aligning their values and goals.
 
 ### Culture of Thinking
 
@@ -46,7 +37,41 @@ Everyone is encouraged to express brilliant ideas, solutions, and visions, regar
 
 Constructive criticism is also essential and everyone must be open to receiving and learning from it. No mental realms shall remain unmerged, unchallenged, and unexamined.
 
-It is recommended to practice the [Socratic Method](https://lucidphilosophy.com/chapter-4-socratic-method/) and the [Harkness Method](https://www.exeter.edu/excellence/how-youll-learn) when discussing ideas.
+We highly value a Socratic approach in thinking. In this case, when discussing ideas and strategies, it is recommended for everyone to participate, raise questions, challenge weaknesses, and reach consensus through good judgments.
+
+It is recommended to practice the [Socratic Method](https://lucidphilosophy.com/chapter-4-socratic-method/) and the [Harkness Method](https://www.exeter.edu/excellence/how-youll-learn).
+
+### Teams
+
+Contrary to popular belief, a _high-performing team_ is not created through rigid structure and a strict playbook. A team's success should not be measured only by the value that individuals bring on the table, but also the satisfaction that every individual receives in the game and playing with the team.
+
+There is beauty in chaos, and the beauty of nature itself is built from chaos. All magnificient things in nature share one thing in common: they are all formed by the coalescence of atoms with diverse intrinsic properties.
+
+In the context of teams and organizations, we believe natural selection is at play. In other words, we believe that unbreakable team cohesion is built around chaotic systems, and chaotic and disorganized teams naturally amalgamate.
+
+We highly believe that a very effective team is made out of diverse and autonomous individuals who make efforts in leading themselves, advocating for open communication and transparency, building healthy relationships, establishing respectful and healthy relationships, and aligning their values and goals.
+
+### Project-Level Leadership
+
+Before delegating tasks, it is important to evaluate the idea, the tasks that will be involved in its materialization, and the lurking uncertainties that might impede the execution.
+
+It is everyone's responsibility to bridge the gap between the **skills required by a task** and **the skills that participants have**. 
+
+Everyone should be assessed of their expertise in a certain skill, and everyone must be involved in helping someone gain expertise in that skill.
+
+Even if an individual insists to have little to no intervention on how they will learn and develop their skills, their learning process must always be supplemented with flexible forms of guidance, whether it is through proper documentation, feedback, or mentoring. Every learner must have a teacher. If you want to go fast, go alone. If you want to go far, go together.
+
+A choir member should be able to follow, but a conductor is responsible of making sure everyone follows. In this case, we can ensure that teams grow with little to no blame.
+
+### Teams
+
+Contrary to popular belief, a _high-performing team_ is not created through rigid structure and a strict playbook. A team's success should not be measured only by the value that individuals bring on the table, but also the satisfaction that every individual receives in the game and playing with the team.
+
+There is beauty in chaos, and the beauty of nature itself is built from chaos. All magnificient things in nature share one thing in common: they are all formed by the coalescence of atoms with diverse intrinsic properties.
+
+In the context of teams and organizations, we believe natural selection is at play. In other words, we believe that unbreakable team cohesion is built around chaotic systems, and chaotic and disorganized teams naturally amalgamate.
+
+We highly believe that a very effective team is made out of diverse and autonomous individuals who make efforts in leading themselves, advocating for open communication and transparency, building healthy relationships, establishing respectful and healthy relationships, and aligning their values and goals.
 
 ### World View and Ethics
 
@@ -54,9 +79,9 @@ Deltafy is founded by individuals who wanted to change the world and make an imp
 
 It is indispensable for everyone in Deltafy to aim for making the world a better place and making everyone's lives better than it should be.
 
-Every human being has the natural innate capacity to distinguish what is universally moral. There is no need for debate to discuss what is right and wrong.
+Human beings have the natural innate capacity to distinguish what is universally moral. In this case, respect for everyone (regardless of culture, religion, and race) is non-negotiable.
 
-In circumstances where peace may not be an option, whether it is due to a living or a non-living threat (e.g. a sentient and rogue AGI), one must make efforts to protect humanity from subjugation and uncompromising evil.
+However, in circumstances where peace may not be an option, whether it is due to a living or a non-living threat (e.g. a sentient and rogue AGI), one must make efforts to protect humanity from subjugation and uncompromising evil.
 
 ## Methodology
 
