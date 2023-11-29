@@ -63,16 +63,6 @@ Even if an individual insists to have little to no intervention on how they will
 
 A choir member should be able to follow, but a conductor is responsible of making sure everyone follows. In this case, we can ensure that teams grow with little to no blame.
 
-### Teams
-
-Contrary to popular belief, a _high-performing team_ is not created through rigid structure and a strict playbook. A team's success should not be measured only by the value that individuals bring on the table, but also the satisfaction that every individual receives in the game and playing with the team.
-
-There is beauty in chaos, and the beauty of nature itself is built from chaos. All magnificient things in nature share one thing in common: they are all formed by the coalescence of atoms with diverse intrinsic properties.
-
-In the context of teams and organizations, we believe natural selection is at play. In other words, we believe that unbreakable team cohesion is built around chaotic systems, and chaotic and disorganized teams naturally amalgamate.
-
-We highly believe that a very effective team is made out of diverse and autonomous individuals who make efforts in leading themselves, advocating for open communication and transparency, building healthy relationships, establishing respectful and healthy relationships, and aligning their values and goals.
-
 ### World View and Ethics
 
 Deltafy is founded by individuals who wanted to change the world and make an impact on people's lives.
@@ -99,9 +89,11 @@ In ideation, we trust everyone's judgment to evaluate his/her own idea, introspe
 
 Templates like the Lean Canvas and Business Model Canvas can be freely utilized. There are also frameworks you can utilize for evaluating ideas. There is the [ICE framework](https://www.productplan.com/glossary/ice-scoring-model/), Bryan Eisenberg's [TIR framework](https://www.bryaneisenberg.com/3-steps-to-better-prioritization-and-faster-execution/), and many others. Once again, it is up to your personal judgment on how you evaluate your ideas.
 
-However, this is where our philosophy towards ideation diverges with the existing methodologies. Achieving high-growth is one of Deltafy's key objectives as a business, but it is also a startup that is born out of genuine intentions of helping humanity. In this case, _profitability_ is a secondary criteria in our idea validation process. We do not just focus on for-profit ideas, but we are also open to ideas that try to promote social justice and support sustainable development.
+However, this is where our philosophy towards ideation diverges with the existing methodologies. Achieving high-growth is one of Deltafy's key objectives as a business, but it is also a startup that is born out of genuine intentions of helping humanity. 
 
-Instead, we want everyone to approach ideas like engineers. We validate ideas in terms of mechanics and practicality. We focus more on the overall cost of pursuing an idea and how the costs can be optimized before considering the potential returns. We believe that the utility of an idea should justify whether it is profitable or not, or impactful or not. We prefer to [build instead of making promises](https://youtu.be/iojdaN9D9qw?si=3G30XMB3ssKQOeHy&t=87).
+_Profitability_ is a criteria that is only evaluated in the last phases of the idea validation process. We do not just focus on for-profit ideas, but we are also open to ideas that try to promote social justice and support sustainable development.
+
+Instead of focusing on profitability, we want everyone to approach ideas like engineers. We validate ideas in terms of mechanics and practicality. We focus more on the overall cost of pursuing an idea and how the costs can be optimized before considering the potential returns. We believe that the utility of an idea should justify whether it is profitable or not, or impactful or not. We prefer to [build instead of making promises](https://youtu.be/iojdaN9D9qw?si=3G30XMB3ssKQOeHy&t=87).
 
 At the end of the day, every idea is a collection of hypotheses that must be tested and validated. A highly comprehensive business plan only tends to obscure the actual beauty of an idea and the value it can truly deliver.
 
